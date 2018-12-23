@@ -12,3 +12,4 @@ letter=["R","O","Y","G","B","I","V"]
 def display_rainbow(colors)
 puts"R:#{red}"
 end
+display_rainbow(red)
