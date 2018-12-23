@@ -10,6 +10,6 @@ letter=["R","O","Y","G","B","I","V"]
 #puts"#{letter[5]}:#{display_rainbow[5]}"
 #puts"#{letter[6]}:#{display_rainbow[6]}"
 def display_rainbow(colors)
-puts"R:#{colors[0]}"
+puts"R: #{colors[0]}"
 end
 display_rainbow(colors)
